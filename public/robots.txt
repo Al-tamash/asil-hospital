@@ -1,0 +1,10 @@
+# Robots.txt for Asil Hospital
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://asilhospital.com/sitemap.xml
+
+# Disallow admin and API routes
+Disallow: /api/
